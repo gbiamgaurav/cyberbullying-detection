@@ -96,7 +96,7 @@ class ModelTrainer:
 
             model_trainer_artifacts = ModelTrainerArtifacts(
                 trained_model_path = self.model_trainer_config.TRAINED_MODEL_PATH,
-                x_test_path = self.model_trainer_config.X_TEST_DATA_PATH,
+                X_test_path = self.model_trainer_config.X_TEST_DATA_PATH,
                 y_test_path = self.model_trainer_config.Y_TEST_DATA_PATH)
             logging.info("Returning the ModelTrainerArtifacts")
             return model_trainer_artifacts
