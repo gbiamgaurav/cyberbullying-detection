@@ -8,9 +8,13 @@
 ### Workflows to be followed:
 
 `1. Update the constants`
+
 `2. Update the entity`
+
 `3. Update the components`
-`4. Update the pipeline``
+
+`4. Update the pipeline`
+
 `5. run app.py`
 
 ## Checkout the FastAPI here:
